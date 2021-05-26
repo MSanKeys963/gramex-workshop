@@ -18,6 +18,10 @@ This workshop aims to teach you how:
 
 A visual analytics platform to build data-based web apps with less code. More info [here](https://learn.gramener.com/guide/).
 
+# How to use Gramex?
+
+You can install Gramex on your machine using [this](https://gramener.com/gramex/guide/install/) or you can use online IDE [here](https://gramex.gramener.com/).
+
 # About the files
 
 1. `admissions.csv` is the dataset file used throughout the workshop.
